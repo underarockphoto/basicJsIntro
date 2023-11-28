@@ -13,7 +13,6 @@ const num1_element = document.querySelector("input#num1")
 const num2_element = document.querySelector("input#num2")
 const button = document.querySelector("button#add")
 const answer = document.querySelector("div#answer")
-debugger
 //make the button run our code
 button.addEventListener("click",()=>{
     //get data

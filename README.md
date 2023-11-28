@@ -9,8 +9,7 @@ but easily fooled.
 The following files are in the repo:
 
 # index.html
-This is a very simple HTML file with an input field, a button to run the program, and a radio selector
-to switch between Number type and string type.
+This is a very simple HTML file with an input field, a button to run the program, and a div to show the answer.
 
 # styles.css
 This is a css file to style index.html.
